@@ -1,2 +1,3 @@
-<?include("header.php");?>
-<?include("body/body_ibot.php");?>
+<?php
+include("header.php");
+include("body/body_ibot.php");?>

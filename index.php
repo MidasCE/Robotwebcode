@@ -1,2 +1,4 @@
-<?include("header.php");?>
-<?include("body/body_index.php");?>
+<?php
+include("header.php");
+include("body/body_index.php");
+?>
