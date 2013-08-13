@@ -26,6 +26,7 @@
               <li><a href="index.php">Home</a></li>
               <li><a href="news.php">ข่าวประกาศ</a></li>
               <li><a href="place.php">ที่ตั้งชุมนุม</a></li>
+               <li><a href="download.php">Download </a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
